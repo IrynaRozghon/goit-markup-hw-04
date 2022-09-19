@@ -184,21 +184,8 @@ body {
   margin-right: auto;
   background-position: 100%;
   background-repeat: no-repeat;
-  background-image: linear-gradient (to right, rgba(47, 48, 58, 0.4)), url(../images/people-1.jpg);
+  background-image: linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/people-1.jpg);
 }
-/* ????
-
-.hero-overlay {
-  display: flex;
-  text-align: center;
-  max-width: 1600px;
-  height: 600px;
-  margin-left: auto;
-  margin-right: auto;
-  background-position: 100%;
-  background-repeat: no-repeat;
-  background-image: linear-gradient (to right, rgba(47, 48, 58, 0.4)), url(../images/people-1.jpg);
-}*/
 
 .hero-header {
   color: var(--basic-text-or-background);
